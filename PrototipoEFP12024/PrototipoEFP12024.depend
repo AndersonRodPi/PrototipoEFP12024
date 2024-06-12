@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1718211035 source:c:\users\admi\onedrive\documentos\carpeta para git\examenrecuperacion\prototipoefp12024\prototipoefp12024\src\bitacora.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<ctime>
+	<stdlib.h>
+	<iomanip>
+	"Bitacora.h"
+
+1718211036 c:\users\admi\onedrive\documentos\carpeta para git\examenrecuperacion\prototipoefp12024\prototipoefp12024\include\bitacora.h
+	<iostream>
+
+1718211036 source:c:\users\admi\onedrive\documentos\carpeta para git\examenrecuperacion\prototipoefp12024\prototipoefp12024\src\informes.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<iomanip>
+	<sstream>
+	<cstring>
+	"informes.h"
+	"cliente.h"
+	"Bitacora.h"
+
+1718211036 c:\users\admi\onedrive\documentos\carpeta para git\examenrecuperacion\prototipoefp12024\prototipoefp12024\include\informes.h
+	<iostream>
+
+1718211035 c:\users\admi\onedrive\documentos\carpeta para git\examenrecuperacion\prototipoefp12024\prototipoefp12024\include\cliente.h
+
+1718211090 source:c:\users\admi\onedrive\documentos\carpeta para git\examenrecuperacion\prototipoefp12024\prototipoefp12024\src\login.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	"Login.h"
+	"Bitacora.h"
+
+1718211090 c:\users\admi\onedrive\documentos\carpeta para git\examenrecuperacion\prototipoefp12024\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<string>
+
+1718211127 source:c:\users\admi\onedrive\documentos\carpeta para git\examenrecuperacion\prototipoefp12024\prototipoefp12024\main.cpp
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	"Login.h"
+	"Bitacora.h"
+	"cliente.h"
+	"informes.h"
+

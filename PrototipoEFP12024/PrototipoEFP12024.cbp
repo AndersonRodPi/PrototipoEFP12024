@@ -35,10 +35,12 @@
 			<Add option="-fexceptions" />
 		</Compiler>
 		<Unit filename="include/Bitacora.h" />
+		<Unit filename="include/Login.h" />
 		<Unit filename="include/cliente.h" />
 		<Unit filename="include/informes.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Bitacora.cpp" />
+		<Unit filename="src/Login.cpp" />
 		<Unit filename="src/cliente.cpp" />
 		<Unit filename="src/informes.cpp" />
 		<Extensions />
