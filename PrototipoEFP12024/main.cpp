@@ -118,8 +118,8 @@ void catalogos()
         case 1:
         {
             //implementacion de empleados
-            empleado empleados;
-            empleados.menu();
+            cliente clientes;
+            clientes.menu();
         }
             break;
         case 2:
